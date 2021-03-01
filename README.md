@@ -1,2 +1,2 @@
-# Curso basico de html-css 
-Esse é um curso de 40 horas feito na plataforma Curso em Video do professor guanabara
+# Curso introdutorio de html-css 
+Curso basico de html-css, introdutório com conceitos e práticas(atividades e desafios).
